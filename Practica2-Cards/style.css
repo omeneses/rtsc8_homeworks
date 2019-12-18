@@ -1,0 +1,32 @@
+body {
+    background-color: #2286c3;
+    
+}
+.container{
+    display: flex;
+    background-color: inherit;
+    padding: 100px;
+    
+    /* margin: 40px; */
+    /* width: 800px; */
+    
+}
+
+.card{
+    /* display: flex; */
+    /* flex-direction: column; */
+    margin: 20px 20px;
+    text-align: center;
+    background-color: #83b3f3;
+    width: 33%;
+    height: auto;
+    font-family: fantasy;
+    color: white;
+    border: 1px solid #000000;
+    justify-content: center;
+}
+
+img{
+    max-width:100%;
+    height: auto;
+}
