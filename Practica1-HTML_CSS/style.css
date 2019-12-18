@@ -1,10 +1,9 @@
+  .aside_heading{
+      text-align: center;
+  }
   div {
     display: flex;
     flex-direction: column;
-  }
-
-  .aside_heading{
-      text-align: center;
   }
 
   h2{
@@ -21,14 +20,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  
-  a {
-    color: #e9e9e9;
-    margin: 0.5em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
   }
   
   p {
@@ -70,7 +61,6 @@
     text-align: justify;
     display: flex;
     flex-direction: column;
-    
   }
 
   .favorite_things{
@@ -80,6 +70,7 @@
       height: 1000px;
       background: inherit;
   }
+ 
   #footer {
     display: flex;
     align-items: center;
